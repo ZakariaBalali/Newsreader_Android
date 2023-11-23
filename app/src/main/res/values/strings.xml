@@ -1,0 +1,32 @@
+<resources>
+    <string name="appName">Newsreader</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="logIn">Log in</string>
+    <string name="signUp">Sign Up</string>
+    <string name="loggedInName">Account name: </string>
+    <string name="logOut">Log out</string>
+    <string name="placeholderName">Zakaria</string>
+    <string name="newsArticleThumbnail">News article thumbnail</string>
+    <string name="likeIconNews">Like icon</string>
+    <string name="placeholderLogOut">Placeholder Logout</string>
+    <string name="register">Register</string>
+    <string name="newsArticles">News articles</string>
+    <string name="liked">Liked</string>
+    <string name="profile">Profile</string>
+    <string name="requiredFields">Fill in both your username and password.</string>
+    <string name="wrongInput">Either your username or password was incorrect.</string>
+    <string name="noLikedNewsArticles">You haven\'t liked any news articles.</string>
+    <string name="noNewsArticlesFound">No news articles were found.</string>
+    <string name="unexpectedError">An unexpected error has occurred.</string>
+    <string name="internetError">An internet error has occurred, please check your network connection.</string>
+    <string name="refreshError">An error has occurred, please refresh the screen.</string>
+    <string name="notLoggedIn">Please log in.</string>
+    <string name="likingError">Could not like the news article, please try again.</string>
+    <string name="registerError">Could not register, please try again.</string>
+    <string name="articleLink">Article link: http://www.google.com</string>
+    <string name="articleImage">Article image</string>
+    <string name="articleTitle">This is the title of the news article</string>
+    <string name="articleSummary">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum</string>
+</resources>
